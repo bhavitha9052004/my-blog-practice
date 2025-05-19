@@ -1,4 +1,3 @@
-/* Subscribe button styles */
 .subscribe-button {
   background-color: #007bff;
   color: white;
@@ -11,15 +10,17 @@
 .subscribe-button:hover {
   background-color: #0056b3;
 }
-/* Dark theme styles */
+
 body.dark-mode {
   background-color: #121212;
   color: #e0e0e0;
 }
+
 /* Quick margin fix for header */
 .header {
   margin-top: 10px;
 }
+
 .footer-widget {
   padding: 20px;
   background-color: #f8f8f8;
