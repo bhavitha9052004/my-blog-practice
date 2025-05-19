@@ -16,3 +16,7 @@ body.dark-mode {
   background-color: #121212;
   color: #e0e0e0;
 }
+/* Quick margin fix for header */
+.header {
+  margin-top: 10px;
+}
