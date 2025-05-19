@@ -1,0 +1,6 @@
+# My First Blog Post
+
+This is a sample post created as part of my GitHub practice assignment.
+
+- Author: B Bhavitha
+- Date: [19/05/2025]
